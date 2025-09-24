@@ -55,3 +55,4 @@
 !/storage/.keep
 /config/master.key
 /.ruby-lsp/
+project_tree*.txt
